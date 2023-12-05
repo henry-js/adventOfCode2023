@@ -1,0 +1,280 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day01",
+            "name": "Day01 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day01/bin/Debug/net8.0/Day01.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day02",
+            "name": "Day02 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day02/bin/Debug/net8.0/Day02.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day03",
+            "name": "Day03 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day03/bin/Debug/net8.0/Day03.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day04",
+            "name": "Day04 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day04/bin/Debug/net8.0/Day04.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day05",
+            "name": "Day05 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day05/bin/Debug/net8.0/Day05.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day06",
+            "name": "Day06 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day06/bin/Debug/net8.0/Day06.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day07",
+            "name": "Day07 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day07/bin/Debug/net8.0/Day07.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day08",
+            "name": "Day08 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day08/bin/Debug/net8.0/Day08.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day09",
+            "name": "Day09 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day09/bin/Debug/net8.0/Day09.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day10",
+            "name": "Day10 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day10/bin/Debug/net8.0/Day10.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day11",
+            "name": "Day11 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day11/bin/Debug/net8.0/Day11.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day12",
+            "name": "Day12 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day12/bin/Debug/net8.0/Day12.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day13",
+            "name": "Day13 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day13/bin/Debug/net8.0/Day13.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day14",
+            "name": "Day14 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day14/bin/Debug/net8.0/Day14.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day15",
+            "name": "Day15 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day15/bin/Debug/net8.0/Day15.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day16",
+            "name": "Day16 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day16/bin/Debug/net8.0/Day16.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day17",
+            "name": "Day17 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day17/bin/Debug/net8.0/Day17.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day18",
+            "name": "Day18 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day18/bin/Debug/net8.0/Day18.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day19",
+            "name": "Day19 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day19/bin/Debug/net8.0/Day19.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day20",
+            "name": "Day20 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day20/bin/Debug/net8.0/Day20.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day21",
+            "name": "Day21 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day21/bin/Debug/net8.0/Day21.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day22",
+            "name": "Day22 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day22/bin/Debug/net8.0/Day22.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day23",
+            "name": "Day23 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day23/bin/Debug/net8.0/Day23.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day24",
+            "name": "Day24 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day24/bin/Debug/net8.0/Day24.dll"
+        },
+        {
+            "args": [],
+            "request": "launch",
+            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/Day25",
+            "name": "Day25 Launch (console)",
+            "type": "coreclr",
+            "preLaunchTask": "build",
+            "stopAtEntry": false,
+            "program": "${workspaceFolder}/Day25/bin/Debug/net8.0/Day25.dll"
+        }
+    ]
+}
