@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Day02/Day02.csproj",
+                "${workspaceFolder}/adventOfCode2023.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
