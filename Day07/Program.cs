@@ -1,6 +1,5 @@
 ﻿using Day07;
 using Spectre.Console;
-using SpectreHelpers;
 
 var currentDir = Directory.GetCurrentDirectory();
 var dataFile = "data.txt";
@@ -17,7 +16,7 @@ var flattenedGroupHands = hands
                     .OrderBy(x => x.Type)
                     .ThenBy(x => x.Cards, new HandComparer());
 flattenedGroupHands = ApplyRanks(flattenedGroupHands);
-AnsiConsole.Write(flattenedGroupHands.ToTable());
+// AnsiConsole.Write(flattenedGroupHands.ToTable());
 // var totalRanks = ApplyRanks(groupedHands.SelectMany(x => x).Reverse());
 // AnsiConsole.Write(totalRanks.ToTable());
 
